@@ -1,0 +1,64 @@
+
+.div{
+    box-sizing:border-box;
+    overflow:hidden;
+    width:5%;
+    height:100%;
+    float:left;
+    }
+    .div2{
+    box-sizing:border-box;
+    overflow:hidden;
+    width:7%;
+    height:100%;
+    float:right;
+    text-align:center;
+    padding-top:15px;
+    font-size:18;
+    border-left:3px solid red;
+    
+    }
+    .div2:hover{
+    background:red;
+    color:white;
+    }
+    
+    
+    a{
+    text-decoration:none;
+    color:black;
+    }
+    .a2{
+    color:black;
+    }
+    .a2:hover{
+    color:red;
+    }
+    
+    .a:hover{
+    color:white;
+    }
+    
+    th{
+    font-size:23;
+    text-align:left;
+    background:red;
+    
+    }
+    
+    td{
+    font-size:20;
+    text-align:left;
+    background:lightpink;
+    
+    }
+    
+    .in{
+    
+    border:2px solid red;
+    border-radius:10px;
+    font-size:20;
+    padding-left:8px;
+    
+    }
+    
