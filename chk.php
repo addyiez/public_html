@@ -11,7 +11,7 @@ $nm=mysqli_num_rows($qry);
 if($nm)
 {
 	?>
-	 <script>alert('sorry u r not allowe')
+	 <script>alert('sorry u r not allowed')
 	 
 	 location.href="bloodbank_services.php";
 	 
